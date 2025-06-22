@@ -24,8 +24,6 @@ Pillow
 
 **4. Key Findings or Visualizations**
 
-(This section should be filled in after you have completed the model training and evaluation. You can summarize the performance of each model, highlight the best-performing one, and describe key visualizations like accuracy/loss curves or confusion matrices.)
-
 **Model Performance:** 
 
 ResNet50: Validation Loss: ~0.609, Validation Accuracy: ~0.825. Achieved ~0.83 accuracy on confusion matrix/classification report. Training Time: ~1 hour.
@@ -50,11 +48,12 @@ Based solely on the evaluation metrics from the validation dataset, the YOLOv8n-
 
 **Set up your environment:** 
 
-(Mention any specific requirements, e.g., using Google Colab, installing libraries from a requirements.txt file).
+You should use Google Colab  ![Copilot_20250622_190245](https://github.com/user-attachments/assets/0322d9f0-cb8d-4975-a648-fd1791652687)
+as all the above listed necessary libraries are pre-installed.
 
 **Obtain the dataset:** 
 
-(Provide instructions or a link to download the dataset and place it in the correct directory structure).
+Image dataset is provided in this repository
 
 **Run the notebook:**
 
