@@ -44,8 +44,6 @@ Based solely on the evaluation metrics from the validation dataset, the YOLOv8n-
 
 **5. How to Run the Code**
 
-(This section should provide instructions on how to set up the environment and run the notebook. You might need to adapt these steps based on where the notebook and data are stored.)
-
 **Set up your environment:** 
 
 You should use Google Colab as all the above listed necessary libraries are pre-installed.
