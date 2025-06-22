@@ -48,8 +48,7 @@ Based solely on the evaluation metrics from the validation dataset, the YOLOv8n-
 
 **Set up your environment:** 
 
-You should use Google Colab  ![Copilot_20250622_190245](https://github.com/user-attachments/assets/0322d9f0-cb8d-4975-a648-fd1791652687)
-as all the above listed necessary libraries are pre-installed.
+You should use Google Colab as all the above listed necessary libraries are pre-installed.
 
 **Obtain the dataset:** 
 
