@@ -1,0 +1,26 @@
+%%writefile .gitignore
+# Ignore Python bytecode
+*.pyc
+__pycache__/
+
+# Ignore dataset directories
+# Assuming the dataset is stored locally or mounted from Drive
+# If your dataset is in a different location or has a different structure, adjust these paths
+fruite-360 (15 classes)/
+fruite-360 (15 classes)/train_split/
+
+# Ignore training runs and checkpoints
+# Adjust the path 'runs/' if your YOLOv8 training output is in a different directory
+runs/
+
+# Ignore model checkpoints and saved models
+*.h5
+*.keras
+*.pt
+
+# Ignore generated files and directories
+# Add any other files or directories you want to ignore here
+.ipynb_checkpoints
+.DS_Store
+/content/drive/
+/content/
