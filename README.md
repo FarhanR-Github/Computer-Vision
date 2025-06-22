@@ -5,7 +5,7 @@ This project focuses on building and comparing different image classification mo
 
 **2. Dataset Source**
 
-The dataset used in this project is expected to be organized in a directory structure where each subdirectory represents a different fruit class. (You might want to add a more specific link or description of where the dataset can be obtained if it's publicly available).
+The dataset used in this project is available in GitHub repository expected to be organized in a directory structure where each subdirectory represents a different fruit class. 
 
 **3. Tools/Libraries Used**
 
