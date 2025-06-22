@@ -46,12 +46,21 @@ Based solely on the evaluation metrics from the validation dataset, the YOLOv8n-
 
 **Set up your environment:** 
 
-You should use Google Colab as all the above listed necessary libraries are pre-installed.
+It is recommended to run this notebook in Google Colab for easy access to GPUs and pre-installed libraries.
+If running locally, ensure you have Python 3.7 or higher installed.
+
+Install the required libraries using pip. You can generate a requirements.txt file from the notebook by running !pip freeze > requirements.txt and then install them using pip install -r requirements.txt.
 
 **Obtain the dataset:** 
+
+The dataset is expected to be located in your Google Drive, specifically at /content/drive/MyDrive/Colab Notebooks/EDA/CV/CV_Portfolio_Project/fruite-360 (15 classes).
+
+If you are running this notebook locally, you will need to download the dataset and update the dataset_path variable in the notebook to point to the correct location of your dataset.
 
 Image dataset is provided in this repository
 
 **Run the notebook:**
 
-Execute the code cells sequentially in the provided Jupyter Notebook or Google Colab notebook.
+If using Google Colab, mount your Google Drive by running the cell containing from google.colab import drive and drive.mount("/content/drive").
+
+Execute the code cells sequentially from top to bottom. The notebook is structured to perform data loading, preprocessing, model training, and evaluation in order.
