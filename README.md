@@ -26,9 +26,9 @@ Pillow
 
 (This section should be filled in after you have completed the model training and evaluation. You can summarize the performance of each model, highlight the best-performing one, and describe key visualizations like accuracy/loss curves or confusion matrices.)
 
-**Model Performance: 
+**Model Performance:** 
 
-(Summarize the accuracy, loss, and other metrics for each model here)**
+(Summarize the accuracy, loss, and other metrics for each model here)
 
 **Best Performing Model:** 
 
