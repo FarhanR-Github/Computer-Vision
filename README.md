@@ -29,8 +29,11 @@ Pillow
 **Model Performance:** 
 
 ResNet50: Validation Loss: ~0.609, Validation Accuracy: ~0.825. Achieved ~0.83 accuracy on confusion matrix/classification report. Training Time: ~1 hour.
+
 VGG16: Validation Loss: ~0.002, Validation Accuracy: ~0.999. Achieved ~0.06 accuracy on confusion matrix/classification report. Training Time: ~1.5 hours.
+
 EfficientNetB0: Validation Loss: ~2.684, Validation Accuracy: ~0.089. Achieved ~0.06 accuracy on confusion matrix/classification report. Training Time: ~19.61 minutes.
+
 YOLOv8n-cls: Training Loss: ~0.003, Validation Top-1 Accuracy: 1.0, Validation Top-5 Accuracy: 1.0. Achieved ~0.06 accuracy on confusion matrix/classification report. Training Time: ~2.8 hours.
 
 **Best Performing Model:** 
